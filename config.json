@@ -1,0 +1,8 @@
+{
+    "path": {
+        "animals": "animals"
+    },
+    "animals": {
+        "support": ["cat", "frog"]
+    }
+}
